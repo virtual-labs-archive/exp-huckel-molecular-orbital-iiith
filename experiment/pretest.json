@@ -1,18 +1,38 @@
 [
-{"question":"This is a Sample Question 1?",
+{"question":"1. How many orbitals per conjugated atom contribute to Huckel Molecular Orbital?",
 "answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
+            "a":"0",
+            "b":"1",
+            "c":"2",
+            "d":"1/2"
           },
 "correctAnswer":"a"},
-{"question":"This is a Sample Question 2?",
+
+{"question":"2. For a molecule with N conjugated carbon atoms, how many HMO's are formed ?",
 "answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
+            "a":"N/2",
+            "b":"N",
+            "c":"2N",
+            "d":"N<sup>2</sup>"
           },
-"correctAnswer":"c"} 
+"correctAnswer":"c"}, 
+
+{"question":"3. Species C<sub>4</sub>H<sup>2Å|</sup><sub>4</sub> is aromatic; while species C<sub>4</sub>H<sub>4</sub> is non-aromatic. Also species C<sub>6</sub>H<sub>6</sub> is aromatic. Look at the HMO energy level diagram in the lab, and describe the common feature that could explain aromaticity",
+"answers":{
+            "a":"Each HMO is completely filled",
+            "b":"All HMO's till the HOMO are filled ",
+            "c":"The gap between HOMO and LUMO is small ",
+            "d":"All HMO's have atleast one electron"
+          },
+"correctAnswer":"a"},
+
+{"question":"4.During the lab, HMO of the species C4H4 were found. Which of the following related species is aromatic ?",
+"answers":{
+            "a":"C<sub>4</sub>H<sup>Å|</sup><sub>4</sub>",
+            "b":"C<sub>4</sub>H<sub>4</sub>",
+            "c":"C<sub>4</sub>H<sup>+</sup><sub>4</sub>",
+            "d":"C<sub>4</sub>H<sup>2+</sup><sub>4</sub>"
+          },
+"correctAnswer":"c"}
+
 ]

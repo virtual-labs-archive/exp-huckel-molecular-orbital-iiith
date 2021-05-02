@@ -1,1 +1,3 @@
-### Aim of the experiment
+In 1931, E. Huckel proposed molecular orbital theory, in which molecular orbitals are approximated using linear combination of atomic ortibals (LCAO) for \(\pi\)-conjugated systems. This approximation is called Huckel Molecular Orbital theory and is the basis for Huckel's \((4n+2)\) rule for aromaticity and for further developments in understanding the role of orbital symmetry in stereo-selectivity in organic reactions (Woodward-Hoffman rules).
+
+Because of its (a) simplicity and (b) ease of calculation and (c) its power in demonstrating easily the electronic structure of conjugated hydrocarbons without any requirement of any physical constants, this method has gained popularity in text-book resources.
